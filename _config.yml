@@ -65,7 +65,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Padua
+        title: University of Insubria
         link: http://toscalab.uninsubria.it/
         # link_text: boringcompany.com
         sub_title: Postdoctoral Researcher
