@@ -81,15 +81,6 @@ content:
         caption: Nov 2019 - Sep 2020
         description: | # this will include new lines to allow paragraphs
             Tackling the big climate change problem means facing many interconnected challenges. Rethinking our strategies for the synthesis of inorganic materials is a big one, as it will pave the way for the development of greener and sustainable alternatives. Here we pushed the boundaries of green approaches to nanomaterials.
-
-      - layout: left
-        title: Bar-Ilan University
-        link: https://www.mastai-lab.com/
-        # link_text: boringcompany.com
-        sub_title: Visiting PhD Candidate
-        caption: Jun 2018 - Aug 2018
-        description: | # this will include new lines to allow paragraphs
-            Probing the surface chemistry of colloidal nanosystems is an open issue with no established route. The Mastai Lab strive to develop alternative approaches to it.
   
       - layout: left
         title: UCL
@@ -99,6 +90,15 @@ content:
         caption: 2016 - 2018 (various periods)
         description: | # this will include new lines to allow paragraphs
             High pressure continuous flow synthesis of (nano)materials allows to tune the properties of water as a solvent. This scalable approach unlocks countless new pathways to develop sustainable approaches to technologically pivotal materials.
+
+      - layout: left
+        title: Bar-Ilan University
+        link: https://www.mastai-lab.com/
+        # link_text: boringcompany.com
+        sub_title: Visiting PhD Candidate
+        caption: Jun 2018 - Aug 2018
+        description: | # this will include new lines to allow paragraphs
+            Probing the surface chemistry of colloidal nanosystems is an open issue with no established route. The Mastai Lab strive to develop alternative approaches to it.
   
       - layout: left
         title: University of Padua
