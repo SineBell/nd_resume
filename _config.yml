@@ -1,0 +1,173 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Nicola Dengo
+title: Researcher - Postdoctoral Fellow
+email: nicola.dengo@uninsubria.it
+website: www.github.com/sinebell/
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: dengonic
+github_username:  sinebell
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+facebook_username: dengo.nicola
+# flickr_username: jekyll
+instagram_username: nicdengo
+linkedin_username: nicola-dengo-0257ab169
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+orcid_username: 0000-0003-2534-7265
+
+# Additional icon links
+additional_links:
+- title: ToScaLab
+  icon: fas fa-university
+  url: http://toscalab.uninsubria.it/
+  
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.png
+about_content: | # this will include new lines to allow paragraphs
+
+  Hi, I'm Nicola and I'm a chemist and researcher. 
+  
+  I have experience in the synthesis and the advanced structural characterization of inorganic materials and nanomaterials. I'm also active in the promotion of scientific culture and of the role of researchers in the society.
+
+
+content:
+  
+- title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Università degli Studi dell'Insubria, Toscalab
+        link: http://toscalab.uninsubria.it/
+        # link_text: boringcompany.com
+        sub_title: Postdoctoral Researcher
+        caption: November 2020 - Present
+        description: | # this will include new lines to allow paragraphs
+            II-VI semiconductors like CdSe are widely used to develop materials in optoelectronics. They generally have a zincblende or a wurtzite crystal structure, but they are also prone to develop defects in the structure, like planar defects. These defects are difficult to study and control, but they are important for both tuning the properties of the materials and understanding synthesis mechanisms.
+
+      - layout: left
+        title: Università degli Studi di Padova, Wet Chemistry and Colloids Group
+        link: http://wwwdisc.chimica.unipd.it/silvia.gross/index.html
+        # link_text: boringcompany.com
+        sub_title: Postdoctoral Researcher
+        caption: November 2019 - September 2020
+        description: | # this will include new lines to allow paragraphs
+            Tackling the big climate change problem means facing many interconnected challenges. Rethinking our strategies for the synthesis of inorganic materials is a big one, as it will pave the way for the development of greener and sustainable alternatives. Here we pushed the boundaries of green approaches to nanomaterials.
+
+      - layout: left
+        title: Bar-Ilan University, Mastai Lab
+        link: https://www.mastai-lab.com/
+        # link_text: boringcompany.com
+        sub_title: Visiting PhD Candidate
+        caption: June 2018 - August 2018
+        description: | # this will include new lines to allow paragraphs
+            Probing the surface chemistry of colloidal nanosystems is an open issue with no established route. The Mastai Lab strive to develop alternative approaches to it.
+  
+      - layout: left
+        title: UCL, Clean Materials Technology Group
+        link: https://www.ucl.ac.uk/chemistry/people/jawwad-darr
+        # link_text: boringcompany.com
+        sub_title: Visiting PhD Candidate
+        caption: 2016 - 2018 (various periods)
+        description: | # this will include new lines to allow paragraphs
+            High pressure continuous flow synthesis of (nano)materials allows to tune the properties of water as a solvent. This scalable approach unlocks countless new pathways to develop sustainable approaches to technologically pivotal materials.
+  
+      - layout: left
+        title: Università degli Studi di Padova
+        link: https://www.chimica.unipd.it/en/
+        # link_text: boringcompany.com
+        sub_title: Teaching Assistant
+        caption: 2016 - 2019 (various periods)
+        description: | # this will include new lines to allow paragraphs
+            I was an assistant teacher for the inorganic chemistry course (MSc Chemistry). Moreover, I held a crash course on chemistry tailored for applicants to the Medicine and Surgery course of the University (approx. 200 participants).
+  
+      - layout: left
+        title: CNR & Italcementi S.p.A., Wet Chemistry and Colloids Group
+        link: http://wwwdisc.chimica.unipd.it/silvia.gross/index.html
+        # link_text: boringcompany.com
+        sub_title: Reserarcher and Vice Scientific Responsible
+        caption: 2015 - 2017
+        description: | # this will include new lines to allow paragraphs
+            Concrete is the second-most-used substance in the world after water. A great leap forward in material science is required to aid the transition to a more sustainable future, and concrete can only play a central role.
+
+
+  
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+    - layout: left
+        title: Università degli Studi di Padova
+        caption: 2016 - 2020
+        sub_title: PhD in Molceular Sciences (Chemistry)
+        description: | # this will include new lines to allow paragraphs
+          Thesis title: Ligand-free water-based approaches for the synthesis of metal sulfides nanostructures
+        
+    - layout: left
+        title: Università degli Studi di Padova
+        caption: 2020
+        sub_title: Professional habilitation for the profession of Chemist
+        description: | # this will include new lines to allow paragraphs
+          Mandatory habilitation to work as a professional chemist in Italy.
+    
+    - layout: left
+        title: Università degli Studi di Padova
+        caption: 2012 - 2015
+        sub_title: MSc in Chemistry
+        description: | # this will include new lines to allow paragraphs
+          110/110 cum laude. Thesis title: Surface chemistry of zinc sulfide: a combined experimental and theoretical approach
+
+
+    - layout: left
+        title: Università degli Studi di Padova
+        caption: 2009 - 2012
+        sub_title: BSc in Chemistry
+        description: | # this will include new lines to allow paragraphs
+          110/110. Thesis title: Microgels Prepared by Emulsion as Stabilizers of Gold Nanoclusters
+
+          
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Research plays a pivotal role in shaping the future of our society, and research is performed by researchers. Since 2016 I have been constantly involved in the flow of analysis, debate and production of policy inputs that different association of PhD candidates and early-stage researches are generating to improve and optimize doctoral training and working conditions. I am currently the Skill Officer for [Eurodoc] (http://eurodoc.net/eurodoc/eurodoc-secretariat).
+      
+      I am truly passionate about both chemistry and working in science in general, and I love to show the beauty of it. For this reason, I was involved in many outreach and science dissemination projects: form thematic events for informed debates with experts, to crazy and fun shows for small children!
+      ![Asilo](/nd_resume/images/asilo.jpg "Asilo")
+      
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
