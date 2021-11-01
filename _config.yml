@@ -14,26 +14,31 @@ website: www.github.com/sinebell/
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-twitter_username: dengonic
-github_username:  sinebell
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-facebook_username: dengo.nicola
-# flickr_username: jekyll
-instagram_username: nicdengo
-linkedin_username: nicola-dengo-0257ab169
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-orcid_username: 0000-0003-2534-7265
-
 # Additional icon links
 additional_links:
 - title: ToScaLab
   icon: fas fa-university
   url: http://toscalab.uninsubria.it/
+
+# Social links
+linkedin_username: nicola-dengo-0257ab169
+orcid_username: 0000-0003-2534-7265
+twitter_username: dengonic
+facebook_username: dengo.nicola
+github_username:  sinebell
+
+
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+
+# flickr_username: jekyll
+# instagram_username: nicdengo
+
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
   
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -60,34 +65,34 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Università degli Studi dell'Insubria, Toscalab
+        title: University of Padua
         link: http://toscalab.uninsubria.it/
         # link_text: boringcompany.com
         sub_title: Postdoctoral Researcher
-        caption: November 2020 - Present
+        caption: Nov 2020 - Present
         description: | # this will include new lines to allow paragraphs
             II-VI semiconductors like CdSe are widely used to develop materials in optoelectronics. They generally have a zincblende or a wurtzite crystal structure, but they are also prone to develop defects in the structure, like planar defects. These defects are difficult to study and control, but they are important for both tuning the properties of the materials and understanding synthesis mechanisms.
 
       - layout: left
-        title: Università degli Studi di Padova, Wet Chemistry and Colloids Group
+        title: University of Padua
         link: http://wwwdisc.chimica.unipd.it/silvia.gross/index.html
         # link_text: boringcompany.com
         sub_title: Postdoctoral Researcher
-        caption: November 2019 - September 2020
+        caption: Nov 2019 - Sep 2020
         description: | # this will include new lines to allow paragraphs
             Tackling the big climate change problem means facing many interconnected challenges. Rethinking our strategies for the synthesis of inorganic materials is a big one, as it will pave the way for the development of greener and sustainable alternatives. Here we pushed the boundaries of green approaches to nanomaterials.
 
       - layout: left
-        title: Bar-Ilan University, Mastai Lab
+        title: Bar-Ilan University
         link: https://www.mastai-lab.com/
         # link_text: boringcompany.com
         sub_title: Visiting PhD Candidate
-        caption: June 2018 - August 2018
+        caption: Jun 2018 - Aug 2018
         description: | # this will include new lines to allow paragraphs
             Probing the surface chemistry of colloidal nanosystems is an open issue with no established route. The Mastai Lab strive to develop alternative approaches to it.
   
       - layout: left
-        title: UCL, Clean Materials Technology Group
+        title: UCL
         link: https://www.ucl.ac.uk/chemistry/people/jawwad-darr
         # link_text: boringcompany.com
         sub_title: Visiting PhD Candidate
@@ -96,7 +101,7 @@ content:
             High pressure continuous flow synthesis of (nano)materials allows to tune the properties of water as a solvent. This scalable approach unlocks countless new pathways to develop sustainable approaches to technologically pivotal materials.
   
       - layout: left
-        title: Università degli Studi di Padova
+        title: University of Padua
         link: https://www.chimica.unipd.it/en/
         # link_text: boringcompany.com
         sub_title: Teaching Assistant
@@ -105,7 +110,7 @@ content:
             I was an assistant teacher for the inorganic chemistry course (MSc Chemistry). Moreover, I held a crash course on chemistry tailored for applicants to the Medicine and Surgery course of the University (approx. 200 participants).
   
       - layout: left
-        title: CNR & Italcementi S.p.A., Wet Chemistry and Colloids Group
+        title: CNR & Italcementi S.p.A.
         link: http://wwwdisc.chimica.unipd.it/silvia.gross/index.html
         # link_text: boringcompany.com
         sub_title: Reserarcher and Vice Scientific Responsible
@@ -119,28 +124,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
     - layout: left
-      title: Università degli Studi di Padova
+      title: University of Padua
       caption: 2016 - 2020
       sub_title: PhD in Molceular Sciences (Chemistry)
       description: | # this will include new lines to allow paragraphs
         Thesis title: Ligand-free water-based approaches for the synthesis of metal sulfides nanostructures
         
     - layout: left
-      title: Università degli Studi di Padova
+      title: University of Padua
       caption: 2020
       sub_title: Professional habilitation for the profession of Chemist
       description: | # this will include new lines to allow paragraphs
         Mandatory habilitation to work as a professional chemist in Italy.
     
     - layout: left
-      title: Università degli Studi di Padova
+      title: University of Padua
       caption: 2012 - 2015
       sub_title: MSc in Chemistry
       description: | # this will include new lines to allow paragraphs
         110/110 cum laude. Thesis title: Surface chemistry of zinc sulfide: a combined experimental and theoretical approach
 
     - layout: left
-      title: Università degli Studi di Padova
+      title: University of Padua
       caption: 2009 - 2012
       sub_title: BSc in Chemistry
       description: | # this will include new lines to allow paragraphs
