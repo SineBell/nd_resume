@@ -47,7 +47,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.png
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
   Hi, I'm Nicola and I'm a chemist and researcher. 
@@ -153,7 +153,7 @@ content:
       Research plays a pivotal role in shaping the future of our society, and research is performed by researchers. Since 2016 I have been constantly involved in the flow of analysis, debate and production of policy inputs that different association of PhD candidates and early-stage researches are generating to improve and optimize doctoral training and working conditions. I am currently the Skill Officer for [Eurodoc] (http://eurodoc.net/eurodoc/eurodoc-secretariat).
       
       I am truly passionate about both chemistry and working in science in general, and I love to show the beauty of it. For this reason, I was involved in many outreach and science dissemination projects: form thematic events for informed debates with experts, to crazy and fun shows for small children!
-      ![Asilo](/nd_resume/images/asilo.jpg "Asilo")
+      ![Asilo](/nd_resume/images/asilo1.jpg "Asilo")
       
 
 # Footer
