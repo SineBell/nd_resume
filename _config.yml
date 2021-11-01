@@ -119,33 +119,32 @@ content:
     layout: list # Type of content section (list/text)
     content:
     - layout: left
-        title: Università degli Studi di Padova
-        caption: 2016 - 2020
-        sub_title: PhD in Molceular Sciences (Chemistry)
-        description: | # this will include new lines to allow paragraphs
-          Thesis title: Ligand-free water-based approaches for the synthesis of metal sulfides nanostructures
+      title: Università degli Studi di Padova
+      caption: 2016 - 2020
+      sub_title: PhD in Molceular Sciences (Chemistry)
+      description: | # this will include new lines to allow paragraphs
+        Thesis title: Ligand-free water-based approaches for the synthesis of metal sulfides nanostructures
         
     - layout: left
-        title: Università degli Studi di Padova
-        caption: 2020
-        sub_title: Professional habilitation for the profession of Chemist
-        description: | # this will include new lines to allow paragraphs
-          Mandatory habilitation to work as a professional chemist in Italy.
+      title: Università degli Studi di Padova
+      caption: 2020
+      sub_title: Professional habilitation for the profession of Chemist
+      description: | # this will include new lines to allow paragraphs
+        Mandatory habilitation to work as a professional chemist in Italy.
     
     - layout: left
-        title: Università degli Studi di Padova
-        caption: 2012 - 2015
-        sub_title: MSc in Chemistry
-        description: | # this will include new lines to allow paragraphs
-          110/110 cum laude. Thesis title: Surface chemistry of zinc sulfide: a combined experimental and theoretical approach
-
+      title: Università degli Studi di Padova
+      caption: 2012 - 2015
+      sub_title: MSc in Chemistry
+      description: | # this will include new lines to allow paragraphs
+        110/110 cum laude. Thesis title: Surface chemistry of zinc sulfide: a combined experimental and theoretical approach
 
     - layout: left
-        title: Università degli Studi di Padova
-        caption: 2009 - 2012
-        sub_title: BSc in Chemistry
-        description: | # this will include new lines to allow paragraphs
-          110/110. Thesis title: Microgels Prepared by Emulsion as Stabilizers of Gold Nanoclusters
+      title: Università degli Studi di Padova
+      caption: 2009 - 2012
+      sub_title: BSc in Chemistry
+      description: | # this will include new lines to allow paragraphs
+        110/110. Thesis title: Microgels Prepared by Emulsion as Stabilizers of Gold Nanoclusters
 
           
   - title: A Little More About Me
