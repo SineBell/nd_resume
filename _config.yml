@@ -52,7 +52,7 @@ gtag: "G-MVMYGJ3Y92"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_small.png
 about_content: | # this will include new lines to allow paragraphs
 
   Hi, I'm Nicola and I'm a chemist and researcher. 
