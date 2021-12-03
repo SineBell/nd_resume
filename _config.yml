@@ -9,7 +9,7 @@ version: 2
 name: Nicola Dengo
 title: Researcher - Postdoctoral Fellow
 email: nicola.dengo [at] uninsubria.it
-#website: www.github.com/sinebell/
+website: https://sinebell.github.io/
 description: >- # this means to ignore newlines until "baseurl:"
   Nicola Dengo: Chemist and Researcher
 url: "https://sinebell.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
