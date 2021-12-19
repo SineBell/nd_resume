@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: SineBell/sinebell.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -32,17 +32,14 @@ twitter_username: dengonic
 facebook_username: dengo.nicola
 # github_username:  sinebell
 
-
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-
-# flickr_username: jekyll
-# instagram_username: nicdengo
-
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
+# dribbble_username:
+# flickr_username:
+# instagram_username:
+# xing_username:
+# pinterest_username:
+# youtube_username:
+# googleplus_username:
 
   
 # - title: another link
