@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ site.name }} | {{ site.title }} test here</title>
+  <title>{{ site.name }} | {{ site.title }}</title>
   {%- seo title=false -%}
 
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
@@ -18,4 +18,5 @@
   {%- if jekyll.environment == 'production' and site.gtag -%}
     {%- include gtag.html -%}
   {%- endif -%}
+  <meta name="google-site-verification" content="google-site-verification=O746He2JRLfoB9c78C8zAY-qt1vDSVN9nVwUFz5WFe8" />  
 </head>
